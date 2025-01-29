@@ -19,8 +19,8 @@
 <h3>¡Hola! Soy Cesar de León, un apasionado desarrollador frontend de Colombia. Mi mundo gira en torno a convertir ideas creativas en experiencias digitales cautivadoras.❤</h3>
           
 
-</div>    
-
+   
+</div> 
 
 <div align="center">
  
