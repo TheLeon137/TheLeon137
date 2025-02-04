@@ -13,7 +13,8 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
   
-   </div>
+
+</div>
 
 <div align="center">
 <h3>¡Hola! Soy Cesar de León, un apasionado desarrollador frontend de Colombia. Mi mundo gira en torno a convertir ideas creativas en experiencias digitales cautivadoras.❤</h3>
