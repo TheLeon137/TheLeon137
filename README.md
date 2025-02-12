@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.imgur.com/3JHjllV.png">
  
-<div align="center">
+<div align="center"> 
   
 ### 😎 Social Media
 
