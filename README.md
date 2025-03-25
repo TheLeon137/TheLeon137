@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://github.com/TheLeon137">Cesar De León</a> 👋</h1>
 </div>
-  <img src="[https://imgur.com/a/fnnMJ2t](https://i.imgur.com/KRQMrkE.png)">
+  <img src="[[https://imgur.com/a/fnnMJ2t](https://i.imgur.com/KRQMrkE.png)](https://i.imgur.com/KRQMrkE.png)">
     
 <div align="center">
     
